@@ -60,7 +60,7 @@
                 <div class="row">
                     <div class="col-xl-3 col-md-6 col-sm-6 box-widget-col">
                         <div class="footer-widget footer-box-widget">
-                            <div class="footer-logo"><img src="{{ asset('assets/images/logo1.svg') }}" alt="footer-logo"></div>
+                            <div class="footer-logo"><img src="{{ asset('assets/images/mts.webp') }}" alt="footer-logo" style="width: 100px; "></div>
                             <p>Solid is the information & experience directed at an end-user</p>
                             <div class="quick-contact">
                                 <div class="phone contact-item">
@@ -97,8 +97,8 @@
                                     </div>
                                     <div class="contact-info">
                                         <span class="title">Get Free Support</span>
-                                        <a href="mailto:pixcelsthemes@gmail.com"
-                                            class="email-address info">pixcelsthemes@gmail.com</a>
+                                        <a href="mailto:maktechsolution@gmail.com"
+                                            class="email-address info">maktechsolution@gmail.com</a>
                                     </div>
                                 </div>
                             </div>
@@ -177,8 +177,8 @@
         <div class="footer-bottom-area">
             <div class="container">
                 <div class="footer-bottom-inner">
-                    <span class="copyright">Copyright & Design By <a href="http://PixcelsThemes.com" class="brand"
-                          target="_blank">PixcelsThemes</a> -2024</span>
+                    <span class="copyright">Copyright  <a href="https://maktechsolution.com/" class="brand"
+                          target="_blank"> ©  . MAKTech Solution All right reserved</a> -2024</span>
                 </div>
             </div>
         </div>
