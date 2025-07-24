@@ -26,7 +26,7 @@ $footer='flase';
             <div class="navbar-part navbar-part navbar-part3">
                 <div class="container">
                     <div class="navbar-inner navbar-inner2">
-                        <a href="{{ route('index') }}" class="logo"><img src="{{ asset('assets/images/mts.webp') }}" alt="umart-logo" width="100"></a>
+                        <a href="{{ route('index') }}" class="logo"><img src="{{ asset('assets/images/1 (1).jpg') }}" alt="umart-logo" width="100"></a>
                         <div class="navbar-search-area">
                             <div class="search-input-inner">
                                 <select class="custom-select">
@@ -1102,7 +1102,7 @@ $footer='flase';
                 <div class="row">
                     <div class="col-xl-3 col-md-6 col-sm-6 box-widget-col">
                         <div class="footer-widget footer-box-widget">
-                            <div class="footer-logo"><img src="{{ asset('assets/images/mts.webp') }}" alt="footer-logo"></div>
+                            <div class="footer-logo"><img src="{{ asset('assets/images/1 (1).jpg') }}" alt="footer-logo"></div>
                             <p>Solid is the information & experience
                                 directed at an end-user</p>
                             <div class="quick-contact">
